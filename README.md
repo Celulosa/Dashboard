@@ -1,3 +1,11 @@
+Modulos a instalar:
+-npm i
+-npm i react-router-dom
+-npm install @material-ui/core @material-ui/icons fontsource-roboto
+-npm install react-chartjs-2 chart.js
+-npm axios
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
